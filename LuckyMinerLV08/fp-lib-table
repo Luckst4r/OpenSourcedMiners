@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My_footprint_lib")(type "KiCad")(uri "/Users/mbdawarr39/My_lib/My_footprint_lib")(options "")(descr ""))
+)
