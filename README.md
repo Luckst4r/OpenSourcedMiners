@@ -69,3 +69,6 @@ Just don’t message me asking for debugging help.
 
 ---
 
+FYI skot9000 thinks this is derivative of his dumpster fire. So here you go.
+https://github.com/bitaxeorg/bitaxegamma
+
