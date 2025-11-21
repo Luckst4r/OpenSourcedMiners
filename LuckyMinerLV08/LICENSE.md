@@ -287,3 +287,5 @@ subsection 3.2.
   8.6 This Licence shall not be enforceable except by a Licensor
       acting as such, and third party beneficiary rights are
       specifically excluded.
+
+      This repo is "DEFINITELY DERIVATIVE" and skot is a weirdo. So here is the silly links that commi bastard "requires" https://github.com/benjamin-wilson/qaxe/tree/main/nerdqaxe And the firmware is here https://github.com/mrbonkerz/ESP-Miner-LVXX
